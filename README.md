@@ -1,8 +1,7 @@
 ### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phjlia2430&show_icons=true&theme=radical)
+![Hyojin's GitHub stats](https://github-readme-stats.vercel.app/api?username=phjlia2430&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phjlia2430&layout=compact)]
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?usernamephjlia2430&show_icons=true&theme=radical)
-출처: https://yoon990.tistory.com/38 [개발저장소:티스토리]
+![Hyojin's GitHub stats](https://github-readme-stats.vercel.app/api?usernamephjlia2430&show_icons=true&theme=radical)
 <!--
 **phjlia2430/phjlia2430** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
