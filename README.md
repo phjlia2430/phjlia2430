@@ -1,5 +1,6 @@
 ### Hi there 👋
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phjlia2430&layout=compact)]
+![tnals545's github stats](https://github-readme-stats.vercel.app/api?username=phjlia2430&show_icons=true&theme=tokyonight)
 <!--
 **phjlia2430/phjlia2430** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
