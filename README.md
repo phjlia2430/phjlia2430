@@ -1,6 +1,4 @@
-### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phjlia2430)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phjlia2430&layout=compact)]
+
 <!--
 **phjlia2430/phjlia2430** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
