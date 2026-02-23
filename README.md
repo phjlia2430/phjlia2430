@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:4e73df,100:1cc88a&height=220&section=header&text=Developer&fontSize=45&fontColor=ffffff&fontAlignY=40)
 
 <div align="center">
 
@@ -49,6 +48,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSONWebTokens&logoColor=white"/>
 <br/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=flat-square&logo=AmazonS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
 
@@ -63,16 +63,15 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJIDEA&logoColor=white"/>
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/>
 
 <br/><br/>
 
 ## 📊 GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=phjlia2430&show_icons=true&theme=tokyonight" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID&layout=compact&theme=tokyonight" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phjlia2430&layout=compact&theme=tokyonight" height="160"/>
 
 </div>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:4e73df,100:1cc88a&height=120&section=footer)
 
  
 
