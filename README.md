@@ -38,8 +38,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=Vite&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/>
-<img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=flat-square&logo=AmazonEC2&logoColor=white"/>
-<img src="https://img.shields.io/badge/Amazon%20RDS-527FFF?style=flat-square&logo=AmazonRDS&logoColor=white"/>
 
 <br/>
 
@@ -51,12 +49,16 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSONWebTokens&logoColor=white"/>
 <br/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=flat-square&logo=AmazonS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=flat-square&logo=AmazonS3&logoColor=white"/>
+
 <br/>
+
+### ☁ Infra & Server
+<img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=flat-square&logo=AmazonEC2&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon%20RDS-527FFF?style=flat-square&logo=AmazonRDS&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=flat-square&logo=AmazonEC2&logoColor=white"/>
 
 <br/>
 
@@ -71,10 +73,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJIDEA&logoColor=white"/>
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/>
 
-
-
 </div>
-
- 
-
-
