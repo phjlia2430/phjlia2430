@@ -66,10 +66,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/>
 
 <br/><br/>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=phjlia2430&show_icons=true&theme=tokyonight&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phjlia2430&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=phjlia2430&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phjlia2430&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 
 </div>
 
