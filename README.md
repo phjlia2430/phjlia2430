@@ -68,8 +68,8 @@ Here are some ideas to get you started:
 <br/><br/>
 
 ## 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=phjlia2430&show_icons=true&theme=tokyonight" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phjlia2430&layout=compact&theme=tokyonight" height="160"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=phjlia2430&show_icons=true&theme=tokyonight&count_private=true" height="160"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=phjlia2430&layout=compact&theme=tokyonight" height="160"/>
 
 </div>
 
